@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\ConsoleApp1\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+C:\Users\USER\source\repos\ConsoleApp1\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+C:\Users\USER\source\repos\ConsoleApp1\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+C:\Users\USER\source\repos\ConsoleApp1\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp1\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp1\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+C:\Users\USER\source\repos\ConsoleApp1\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb
